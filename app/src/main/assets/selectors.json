@@ -1,0 +1,9 @@
+{
+  "_doc": "SEUL endroit où vivent les sélecteurs CSS dépendant du HTML d'Instagram. Si le masquage ou le bouton Suivant cassent, corriger ICI (voir ARCHITECTURE.md).",
+  "post": "article",
+  "hide": [
+    "a[href^=\"/explore\"]",
+    "a[href^=\"/reels\"]",
+    "a[href^=\"/reel/\"]"
+  ]
+}

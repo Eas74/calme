@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calme</string>
+    <string name="feed">Abonnements</string>
+    <string name="messages">Messages</string>
+    <string name="prev">◀</string>
+    <string name="next">Suivant ▶</string>
+    <string name="counter">%1$d / %2$d</string>
+    <string name="blocked">Page bloquée</string>
+    <string name="limit_reached">Limite du jour atteinte (%d). À demain !</string>
+    <string name="nothing_more">Rien de plus à afficher pour l’instant</string>
+    <string name="no_lock">Configurez un verrouillage d’écran pour utiliser l’application</string>
+</resources>
